@@ -2,7 +2,6 @@ import './App.css'
 import FirstComponent from './components/FirstComponent';
 import TemplateExpression from './components/TemplateExpression';
 import MyComponent from './components/MyComponent';
-import MyComponent from './components/MyComponent';
 
 function App() {
   return (
